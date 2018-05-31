@@ -33,7 +33,7 @@ class TeaControllerTest extends FunctionalTestCase
             [
                 'EXT:fluid_styled_content/Configuration/TypoScript/setup.txt',
                 'EXT:tea/Configuration/TypoScript/setup.txt',
-                'EXT:tea/Tests/Functional/Controller/Fixtures/Frontend/Basic.typoscript',
+                'EXT:tea/Tests/Functional/Controller/Fixtures/Frontend/Basic.txt',
             ]
         );
     }
