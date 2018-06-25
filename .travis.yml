@@ -11,6 +11,8 @@ env:
   global:
   - typo3DatabaseHost=localhost typo3DatabaseName=typo3 typo3DatabaseUsername=travis typo3DatabasePassword=''
   matrix:
+  - TYPO3_VERSION="^7.6"
+  - TYPO3_VERSION="^7.6" DEPENDENCIES_PREFERENCE="--prefer-lowest"
   - TYPO3_VERSION="^8.7"
   - TYPO3_VERSION="^8.7" DEPENDENCIES_PREFERENCE="--prefer-lowest"
 
