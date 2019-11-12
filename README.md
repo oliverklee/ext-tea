@@ -1,5 +1,7 @@
 # Tea example
 
+## This repository has moved to the [TYPO3 Trainer Network](https://github.com/typo3-trainer-network/tea). 
+
 [![Build Status](https://travis-ci.org/oliverklee/ext-tea.svg?branch=master)](https://travis-ci.org/oliverklee/ext-tea)
 [![Latest Stable Version](https://poser.pugx.org/oliverklee/tea/v/stable.svg)](https://packagist.org/packages/oliverklee/tea)
 [![Total Downloads](https://poser.pugx.org/oliverklee/tea/downloads.svg)](https://packagist.org/packages/oliverklee/tea)
